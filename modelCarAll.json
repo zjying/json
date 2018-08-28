@@ -1,0 +1,640 @@
+{
+	"state": "1",
+	"msg": null,
+	"data": {
+		"brandAllShort": "A,B,C,D,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,W,X,Y,Z,",
+		"brandList": [
+			{
+				"carBrandName": "A",
+				"carBrandList": [
+					{
+						"id": "1",
+						"initial": "A",
+						"brandName": "奥迪"
+					}, {
+						"id": "2",
+						"initial": "A",
+						"brandName": "阿斯顿·马丁"
+					}, {
+						"id": "3",
+						"initial": "A",
+						"brandName": "阿尔法罗密欧"
+					}
+				]
+			}, {
+				"carBrandName": "B",
+				"carBrandList": [
+					{
+						"id": "4",
+						"initial": "B",
+						"brandName": "别克"
+					}, {
+						"id": "5",
+						"initial": "B",
+						"brandName": "本田"
+					}, {
+						"id": "6",
+						"initial": "B",
+						"brandName": "宝马"
+					}, {
+						"id": "7",
+						"initial": "B",
+						"brandName": "标致"
+					}, {
+						"id": "8",
+						"initial": "B",
+						"brandName": "比亚迪"
+					}, {
+						"id": "22",
+						"initial": "B",
+						"brandName": "奔驰"
+					}, {
+						"id": "23",
+						"initial": "B",
+						"brandName": "宝骏"
+					}, {
+						"id": "24",
+						"initial": "B",
+						"brandName": "奔腾"
+					}, {
+						"id": "25",
+						"initial": "B",
+						"brandName": "保时捷"
+					}, {
+						"id": "26",
+						"initial": "B",
+						"brandName": "北京汽车"
+					}, {
+						"id": "27",
+						"initial": "B",
+						"brandName": "宾利"
+					}, {
+						"id": "28",
+						"initial": "B",
+						"brandName": "布加迪"
+					}, {
+						"id": "29",
+						"initial": "B",
+						"brandName": "巴博斯"
+					}, {
+						"id": "30",
+						"initial": "B",
+						"brandName": "宝沃汽车"
+					}, {
+						"id": "31",
+						"initial": "B",
+						"brandName": "比速汽车"
+					}
+				]
+			}, {
+				"carBrandName": "C",
+				"carBrandList": [
+					{
+						"id": "32",
+						"initial": "C",
+						"brandName": "长城汽车"
+					}, {
+						"id": "33",
+						"initial": "C",
+						"brandName": "长安汽车"
+					}, {
+						"id": "34",
+						"initial": "C",
+						"brandName": "昌河汽车"
+					}, {
+						"id": "35",
+						"initial": "C",
+						"brandName": "成功汽车"
+					}
+				]
+			}, {
+				"carBrandName": "D",
+				"carBrandList": [
+					{
+						"id": "36",
+						"initial": "D",
+						"brandName": "大众"
+					}, {
+						"id": "37",
+						"initial": "D",
+						"brandName": "东南汽车"
+					}, {
+						"id": "38",
+						"initial": "D",
+						"brandName": "东风"
+					}, {
+						"id": "39",
+						"initial": "D",
+						"brandName": "道奇"
+					}, {
+						"id": "40",
+						"initial": "D",
+						"brandName": "DS"
+					}, {
+						"id": "41",
+						"initial": "D",
+						"brandName": "大发"
+					}
+				]
+			}, {
+				"carBrandName": "F",
+				"carBrandList": [
+					{
+						"id": "42",
+						"initial": "F",
+						"brandName": "福特"
+					}, {
+						"id": "43",
+						"initial": "F",
+						"brandName": "丰田"
+					}, {
+						"id": "44",
+						"initial": "F",
+						"brandName": "菲亚特"
+					}, {
+						"id": "45",
+						"initial": "F",
+						"brandName": "福田汽车"
+					}, {
+						"id": "46",
+						"initial": "F",
+						"brandName": "法拉利"
+					}, {
+						"id": "47",
+						"initial": "F",
+						"brandName": "福迪汽车"
+					}, {
+						"id": "48",
+						"initial": "F",
+						"brandName": "福汽集团"
+					}
+				]
+			}, {
+				"carBrandName": "G",
+				"carBrandList": [
+					{
+						"id": "49",
+						"initial": "G",
+						"brandName": "广汽传祺"
+					}, {
+						"id": "50",
+						"initial": "G",
+						"brandName": "广汽吉奥"
+					}, {
+						"id": "51",
+						"initial": "G",
+						"brandName": "GMC"
+					}, {
+						"id": "52",
+						"initial": "G",
+						"brandName": "观致汽车"
+					}
+				]
+			}, {
+				"carBrandName": "H",
+				"carBrandList": [
+					{
+						"id": "53",
+						"initial": "H",
+						"brandName": "哈弗"
+					}, {
+						"id": "54",
+						"initial": "H",
+						"brandName": "海马汽车"
+					}, {
+						"id": "55",
+						"initial": "H",
+						"brandName": "华泰汽车"
+					}, {
+						"id": "56",
+						"initial": "H",
+						"brandName": "哈飞汽车"
+					}, {
+						"id": "57",
+						"initial": "H",
+						"brandName": "黄海曙光"
+					}, {
+						"id": "58",
+						"initial": "H",
+						"brandName": "华普"
+					}, {
+						"id": "59",
+						"initial": "H",
+						"brandName": "悍马"
+					}, {
+						"id": "60",
+						"initial": "H",
+						"brandName": "红旗"
+					}, {
+						"id": "61",
+						"initial": "H",
+						"brandName": "海格汽车"
+					}, {
+						"id": "62",
+						"initial": "H",
+						"brandName": "恒天汽车"
+					}, {
+						"id": "63",
+						"initial": "H",
+						"brandName": "汉腾"
+					}, {
+						"id": "64",
+						"initial": "H",
+						"brandName": "华颂"
+					}
+				]
+			}, {
+				"carBrandName": "J",
+				"carBrandList": [
+					{
+						"id": "65",
+						"initial": "J",
+						"brandName": "江淮汽车"
+					}, {
+						"id": "66",
+						"initial": "J",
+						"brandName": "Jeep"
+					}, {
+						"id": "67",
+						"initial": "J",
+						"brandName": "捷豹"
+					}, {
+						"id": "68",
+						"initial": "J",
+						"brandName": "金杯"
+					}, {
+						"id": "69",
+						"initial": "J",
+						"brandName": "江铃"
+					}, {
+						"id": "70",
+						"initial": "J",
+						"brandName": "吉利"
+					}
+				]
+			}, {
+				"carBrandName": "K",
+				"carBrandList": [
+					{
+						"id": "71",
+						"initial": "K",
+						"brandName": "凯迪拉克"
+					}, {
+						"id": "72",
+						"initial": "K",
+						"brandName": "克莱斯勒"
+					}, {
+						"id": "73",
+						"initial": "K",
+						"brandName": "开瑞汽车"
+					}, {
+						"id": "74",
+						"initial": "K",
+						"brandName": "科尼赛克"
+					}, {
+						"id": "75",
+						"initial": "K",
+						"brandName": "卡尔森"
+					}, {
+						"id": "76",
+						"initial": "K",
+						"brandName": "凯翼"
+					}, {
+						"id": "77",
+						"initial": "K",
+						"brandName": "卡威汽车"
+					}
+				]
+			}, {
+				"carBrandName": "L",
+				"carBrandList": [
+					{
+						"id": "78",
+						"initial": "L",
+						"brandName": "铃木"
+					}, {
+						"id": "79",
+						"initial": "L",
+						"brandName": "路虎"
+					}, {
+						"id": "80",
+						"initial": "L",
+						"brandName": "雷克萨斯"
+					}, {
+						"id": "81",
+						"initial": "L",
+						"brandName": "陆风汽车"
+					}, {
+						"id": "82",
+						"initial": "L",
+						"brandName": "雷诺"
+					}, {
+						"id": "83",
+						"initial": "L",
+						"brandName": "力帆"
+					}, {
+						"id": "84",
+						"initial": "L",
+						"brandName": "猎豹"
+					}, {
+						"id": "85",
+						"initial": "L",
+						"brandName": "莲花"
+					}, {
+						"id": "86",
+						"initial": "L",
+						"brandName": "兰博基尼"
+					}, {
+						"id": "87",
+						"initial": "L",
+						"brandName": "理念"
+					}, {
+						"id": "88",
+						"initial": "L",
+						"brandName": "劳斯莱斯"
+					}, {
+						"id": "89",
+						"initial": "L",
+						"brandName": "林肯"
+					}, {
+						"id": "90",
+						"initial": "L",
+						"brandName": "路特斯"
+					}, {
+						"id": "91",
+						"initial": "L",
+						"brandName": "雷丁"
+					}
+				]
+			}, {
+				"carBrandName": "M",
+				"carBrandList": [
+					{
+						"id": "92",
+						"initial": "M",
+						"brandName": "马自达\r\n"
+					}, {
+						"id": "93",
+						"initial": "M",
+						"brandName": "MG名爵"
+					}, {
+						"id": "94",
+						"initial": "M",
+						"brandName": "MINI"
+					}, {
+						"id": "95",
+						"initial": "M",
+						"brandName": "玛莎拉蒂"
+					}, {
+						"id": "96",
+						"initial": "M",
+						"brandName": "迈巴赫"
+					}, {
+						"id": "97",
+						"initial": "M",
+						"brandName": "迈凯伦"
+					}, {
+						"id": "98",
+						"initial": "M",
+						"brandName": "明君汽车"
+					}, {
+						"id": "99",
+						"initial": "M",
+						"brandName": "摩根"
+					}
+				]
+			}, {
+				"carBrandName": "N",
+				"carBrandList": [
+					{
+						"id": "100",
+						"initial": "N",
+						"brandName": "纳智捷"
+					}
+				]
+			}, {
+				"carBrandName": "O",
+				"carBrandList": [
+					{
+						"id": "101",
+						"initial": "O",
+						"brandName": "欧宝"
+					}, {
+						"id": "102",
+						"initial": "O",
+						"brandName": "讴歌"
+					}, {
+						"id": "103",
+						"initial": "O",
+						"brandName": "欧朗"
+					}
+				]
+			}, {
+				"carBrandName": "P",
+				"carBrandList": [
+					{
+						"id": "104",
+						"initial": "P",
+						"brandName": "帕加尼"
+					}
+				]
+			}, {
+				"carBrandName": "Q",
+				"carBrandList": [
+					{
+						"id": "105",
+						"initial": "Q",
+						"brandName": "起亚"
+					}, {
+						"id": "106",
+						"initial": "Q",
+						"brandName": "奇瑞汽车"
+					}, {
+						"id": "107",
+						"initial": "Q",
+						"brandName": "启辰"
+					}
+				]
+			}, {
+				"carBrandName": "R",
+				"carBrandList": [
+					{
+						"id": "108",
+						"initial": "R",
+						"brandName": "日产"
+					}, {
+						"id": "109",
+						"initial": "R",
+						"brandName": "荣威"
+					}, {
+						"id": "110",
+						"initial": "R",
+						"brandName": "瑞麒"
+					}, {
+						"id": "111",
+						"initial": "R",
+						"brandName": "如虎"
+					}
+				]
+			}, {
+				"carBrandName": "S",
+				"carBrandList": [
+					{
+						"id": "112",
+						"initial": "S",
+						"brandName": "斯柯达"
+					}, {
+						"id": "113",
+						"initial": "S",
+						"brandName": "三菱"
+					}, {
+						"id": "114",
+						"initial": "S",
+						"brandName": "斯巴鲁"
+					}, {
+						"id": "115",
+						"initial": "S",
+						"brandName": "双龙"
+					}, {
+						"id": "116",
+						"initial": "S",
+						"brandName": "smart"
+					}, {
+						"id": "117",
+						"initial": "S",
+						"brandName": "双环汽车"
+					}, {
+						"id": "118",
+						"initial": "S",
+						"brandName": "上汽大通汽车"
+					}, {
+						"id": "119",
+						"initial": "S",
+						"brandName": "赛麟"
+					}
+				]
+			}, {
+				"carBrandName": "T",
+				"carBrandList": [
+					{
+						"id": "120",
+						"initial": "T",
+						"brandName": "特斯拉"
+					}, {
+						"id": "121",
+						"initial": "T",
+						"brandName": "腾势"
+					}, {
+						"id": "122",
+						"initial": "T",
+						"brandName": "泰卡特"
+					}, {
+						"id": "123",
+						"initial": "T",
+						"brandName": "唐骏"
+					}
+				]
+			}, {
+				"carBrandName": "W",
+				"carBrandList": [
+					{
+						"id": "124",
+						"initial": "W",
+						"brandName": "沃尔沃"
+					}, {
+						"id": "125",
+						"initial": "W",
+						"brandName": "五菱汽车"
+					}, {
+						"id": "126",
+						"initial": "W",
+						"brandName": "威麟"
+					}, {
+						"id": "127",
+						"initial": "W",
+						"brandName": "威兹曼"
+					}, {
+						"id": "128",
+						"initial": "W",
+						"brandName": "五十铃"
+					}
+				]
+			}, {
+				"carBrandName": "X",
+				"carBrandList": [
+					{
+						"id": "129",
+						"initial": "X",
+						"brandName": "现代"
+					}, {
+						"id": "130",
+						"initial": "X",
+						"brandName": "雪佛兰"
+					}, {
+						"id": "131",
+						"initial": "X",
+						"brandName": "雪铁龙"
+					}, {
+						"id": "132",
+						"initial": "X",
+						"brandName": "西雅特"
+					}, {
+						"id": "133",
+						"initial": "X",
+						"brandName": "新凯汽车"
+					}
+				]
+			}, {
+				"carBrandName": "Y",
+				"carBrandList": [
+					{
+						"id": "134",
+						"initial": "Y",
+						"brandName": "天津一汽"
+					}, {
+						"id": "135",
+						"initial": "Y",
+						"brandName": "英菲尼迪"
+					}, {
+						"id": "136",
+						"initial": "Y",
+						"brandName": "永源"
+					}, {
+						"id": "137",
+						"initial": "Y",
+						"brandName": "野马汽车"
+					}, {
+						"id": "138",
+						"initial": "Y",
+						"brandName": "潍柴汽车"
+					}, {
+						"id": "139",
+						"initial": "Y",
+						"brandName": "依维柯"
+					}
+				]
+			}, {
+				"carBrandName": "Z",
+				"carBrandList": [
+					{
+						"id": "140",
+						"initial": "Z",
+						"brandName": "中华"
+					}, {
+						"id": "141",
+						"initial": "Z",
+						"brandName": "众泰汽车"
+					}, {
+						"id": "142",
+						"initial": "Z",
+						"brandName": "中兴汽车"
+					}, {
+						"id": "143",
+						"initial": "Z",
+						"brandName": "镇江飞驰"
+					}
+				]
+			}
+		]
+	}
+}

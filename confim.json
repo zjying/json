@@ -1,0 +1,92 @@
+{
+	"state":"1",
+	"msg":"",
+	"data":{
+		"riskCompare": "0",
+		"ciEffectiveDate": "2017-11-07 00:00:00",
+		"biEffectiveDate": "2017-11-07 00:00:00",
+		"baseInfo": {
+			"addressName":"",
+			"addressMobile":"",
+			"addressArea":"",
+			"addressDetails":"",
+			"policyEmail":"",
+			"ownerName":"",
+			"ownerIdNo":"",
+			"ownerMobile":"",
+			"applicantName":"",
+			"applicantIdNo":"",
+			"applicantMobile":"",
+			"insuredName":"",
+			"insuredIdNo":"",
+			"insuredMobile":""
+		
+		},
+		"carInfo":{
+			"licenseNo":"",
+			"modelCode":"",
+			"newCarPrice":"",
+			"frameNo":"",
+			"engineNo":"",
+			"firstRegisterDate":"",
+			"specialCarDate":""
+		},
+		"insurerInfo": {
+			"insurerCode": "YGBX",
+			"insurerName": "阳光",
+			"sumPremium": "2780.17",
+			"integral": "49400",
+			"biPremium": "1547.17",
+			"ciPremium": "983.00",
+			"sumCiPremium": "1233.00",
+			"carshipTax": "250.00",
+			"state": "1",
+			"coverageList": [{
+				"kindCode": "A",
+				"kindName": "机动车损失保险",
+				"amount": "1",
+				"premium": "606.59",
+				"deductibleflag": null
+			
+			}, {
+				"kindCode": "B",
+				"kindName": "第三者责任险",
+				"amount": "20万",
+				"premium": "708.31",
+				"deductibleflag": "1"
+			}, {
+				"kindCode": "D3",
+				"kindName": "驾驶员责任险",
+				"amount": "1万/座",
+				"premium": "28.64",
+				"deductibleflag": "1"
+			}, {
+				"kindCode": "D4",
+				"kindName": "乘客责任险",
+				"amount": "1万/座",
+				"premium": "128.46",
+				"deductibleflag": "1"
+			}, {
+				"kindCode": "F",
+				"kindName": "玻璃单独破碎险",
+				"amount": "1",
+				"premium": "46.98",
+				"deductibleflag": null
+			}, {
+				"kindCode": "Z",
+				"kindName": "自燃损失险",
+				"amount": "1",
+				"premium": "28.19",
+				"deductibleflag": null
+			}]
+		},
+		"riskCount": 7,
+		"showIntegral": 1,
+		"showProportion": 1,
+		"integralUnit": "金币",
+		"ciFlag": "1",
+		"renewInsurerCode": null,
+		"insurePlan": 3
+	}
+	
+}

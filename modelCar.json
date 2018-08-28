@@ -1,0 +1,67 @@
+{
+	"state": "1",
+	"msg": "22",
+	"data": [
+		{
+			"brandCode": "DZAAJD0008",
+			"brandName": "开迪FV6440BE多用途乘用车",
+			"engineDesc": "1.6L",
+			"familyName": "开迪",
+			"newCarPrice": "122800",
+			"purchasePriceTax": "130672",
+			"importFlag": "1",
+			"purchasePrice": "122800",
+			"seat": "7",
+			"modelName": "开迪FV6440BE多用途乘用车1.6L开迪手动档",
+			"modelAllName": "开迪FV6440BE多用途乘用车 1.6L 2005款 功能型 开迪 7座"
+		}, {
+			"brandCode": "DZAAED0027",
+			"brandName": "途安SVW6440FBD多用途乘用车",
+			"engineDesc": "1.8T",
+			"familyName": "途安",
+			"newCarPrice": "202800",
+			"purchasePriceTax": "220100",
+			"importFlag": "1",
+			"purchasePrice": "202800",
+			"seat": "5",
+			"modelName": "途安SVW6440FBD多用途乘用车1.8T途安手自一体",
+			"modelAllName": "途安SVW6440FBD多用途乘用车 1.8T 2006款 豪华型 途安 5座"
+		}, {
+			"brandCode": "DZAAED0029",
+			"brandName": "途安SVW6440GBD多用途乘用车",
+			"engineDesc": "1.8T",
+			"familyName": "途安",
+			"newCarPrice": "200900",
+			"purchasePriceTax": "218100",
+			"importFlag": "1",
+			"purchasePrice": "200900",
+			"seat": "7",
+			"modelName": "途安SVW6440GBD多用途乘用车1.8T途安手动档",
+			"modelAllName": "途安SVW6440GBD多用途乘用车 1.8T 2006款 豪华型 途安 7座"
+		}, {
+			"brandCode": "DZAAED0029",
+			"brandName": "途安SVW6440GBD多用途乘用车",
+			"engineDesc": "1.8T",
+			"familyName": "途安",
+			"newCarPrice": "200900",
+			"purchasePriceTax": "218100",
+			"importFlag": "1",
+			"purchasePrice": "200900",
+			"seat": "7",
+			"modelName": "途安SVW6440GBD多用途乘用车1.8T途安手动档",
+			"modelAllName": "途安SVW6440GBD多用途乘用车 1.8T 2006款 豪华型 途安 7座"
+		}, {
+			"brandCode": "DZAAED0029",
+			"brandName": "途安SVW6440GBD多用途乘用车",
+			"engineDesc": "1.8T",
+			"familyName": "途安",
+			"newCarPrice": "200900",
+			"purchasePriceTax": "218100",
+			"importFlag": "1",
+			"purchasePrice": "200900",
+			"seat": "7",
+			"modelName": "途安SVW6440GBD多用途乘用车1.8T途安手动档",
+			"modelAllName": "途安SVW6440GBD多用途乘用车 1.8T 2006款 豪华型 途安 7座"
+		}
+	]
+}

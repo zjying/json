@@ -1,0 +1,189 @@
+{
+	"state": "1",
+	"msg": null,
+	"data": {
+		"carModelInfo": [
+			{
+				"brandCode": "ADAAED0078",
+				"brandName": "奥迪FV7183TFCVTG轿车",
+				"engineDesc": "1.8T",
+				"familyName": "一汽奥迪A4",
+				"newCarPrice": "275000",
+				"purchasePriceTax": "298500",
+				"importFlag": "1",
+				"purchasePrice": "275000",
+				"seat": "5",
+				"modelName": "奥迪FV7183TFCVTG轿车1.8T一汽奥迪A4CVT",
+				"modelAllName": "奥迪FV7183TFCVTG轿车 1.8T 2010款 舒适型 一汽奥迪A4 5座"
+			}, {
+				"brandCode": "ADAAED0079",
+				"brandName": "奥迪FV7203TFCVTG轿车",
+				"engineDesc": "2.0T",
+				"familyName": "一汽奥迪A4",
+				"newCarPrice": "290800",
+				"purchasePriceTax": "315700",
+				"importFlag": "1",
+				"purchasePrice": "290800",
+				"seat": "5",
+				"modelName": "奥迪FV7203TFCVTG轿车2.0T一汽奥迪A4CVT",
+				"modelAllName": "奥迪FV7203TFCVTG轿车 2.0T 2010款 标准型 一汽奥迪A4 5座"
+			}, {
+				"brandCode": "ADAAED0080",
+				"brandName": "奥迪FV7203TFCVTG轿车",
+				"engineDesc": "2.0T",
+				"familyName": "一汽奥迪A4",
+				"newCarPrice": "313000",
+				"purchasePriceTax": "339800",
+				"importFlag": "1",
+				"purchasePrice": "313000",
+				"seat": "5",
+				"modelName": "奥迪FV7203TFCVTG轿车2.0T一汽奥迪A4CVT",
+				"modelAllName": "奥迪FV7203TFCVTG轿车 2.0T 2010款 舒适型 一汽奥迪A4 5座"
+			}, {
+				"brandCode": "ADAAED0083",
+				"brandName": "奥迪FV7203TFCVTG轿车",
+				"engineDesc": "2.0T",
+				"familyName": "一汽奥迪A4",
+				"newCarPrice": "398000",
+				"purchasePriceTax": "432000",
+				"importFlag": "1",
+				"purchasePrice": "398000",
+				"seat": "5",
+				"modelName": "奥迪FV7203TFCVTG轿车2.0T一汽奥迪A4CVT",
+				"modelAllName": "奥迪FV7203TFCVTG轿车 2.0T 2010款 运动型 一汽奥迪A4 5座"
+			}, {
+				"brandCode": "ADAAFD0124",
+				"brandName": "奥迪FV7271FTDICVTG轿车",
+				"engineDesc": "2.7T",
+				"familyName": "一汽奥迪A6",
+				"newCarPrice": "469000",
+				"purchasePriceTax": "509100",
+				"importFlag": "1",
+				"purchasePrice": "469000",
+				"seat": "5",
+				"modelName": "奥迪FV7271FTDICVTG轿车2.7T一汽奥迪A6CVT",
+				"modelAllName": "奥迪FV7271FTDICVTG轿车 2.7T 2009款 柴油型 一汽奥迪A6 5座"
+			}, {
+				"brandCode": "ADAAII0009",
+				"brandName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车",
+				"engineDesc": "3.6L",
+				"familyName": "奥迪Q7",
+				"newCarPrice": "815000",
+				"purchasePriceTax": "884700",
+				"importFlag": "2",
+				"purchasePrice": "815000",
+				"seat": "5",
+				"modelName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车3.6L奥迪Q7手自一体",
+				"modelAllName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车 3.6L 3.6L 基本型 全时四驱 奥迪Q7 5座"
+			}, {
+				"brandCode": "ADAAII0010",
+				"brandName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车",
+				"engineDesc": "3.6L",
+				"familyName": "奥迪Q7",
+				"newCarPrice": "875000",
+				"purchasePriceTax": "949800",
+				"importFlag": "2",
+				"purchasePrice": "875000",
+				"seat": "5",
+				"modelName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车3.6L奥迪Q7手自一体",
+				"modelAllName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车 3.6L 2010款 技术型 奥迪Q7 5座"
+			}, {
+				"brandCode": "ADAAII0011",
+				"brandName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车",
+				"engineDesc": "3.6L",
+				"familyName": "奥迪Q7",
+				"newCarPrice": "948000",
+				"purchasePriceTax": "1029000",
+				"importFlag": "2",
+				"purchasePrice": "948000",
+				"seat": "5",
+				"modelName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车3.6L奥迪Q7手自一体",
+				"modelAllName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车 3.6L 2010款 舒适型 奥迪Q7 5座"
+			}, {
+				"brandCode": "ADAAII0012",
+				"brandName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车",
+				"engineDesc": "3.6L",
+				"familyName": "奥迪Q7",
+				"newCarPrice": "998000",
+				"purchasePriceTax": "1083300",
+				"importFlag": "2",
+				"purchasePrice": "998000",
+				"seat": "5",
+				"modelName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车3.6L奥迪Q7手自一体",
+				"modelAllName": "奥迪AUDI Q7 3.6 FSI QUATTRO越野车 3.6L 2010款 豪华型 奥迪Q7 5座"
+			}, {
+				"brandCode": "ADAAII0013",
+				"brandName": "奥迪AUDI Q7 4.2 FSI QUATTRO越野车",
+				"engineDesc": "4.2L",
+				"familyName": "奥迪Q7",
+				"newCarPrice": "1498000",
+				"purchasePriceTax": "1626000",
+				"importFlag": "2",
+				"purchasePrice": "1498000",
+				"seat": "5",
+				"modelName": "奥迪AUDI Q7 4.2 FSI QUATTRO越野车4.2L奥迪Q7手自一体",
+				"modelAllName": "奥迪AUDI Q7 4.2 FSI QUATTRO越野车 4.2L 2010款 技术型 奥迪Q7 5座"
+			}, {
+				"brandCode": "ADAAII0014",
+				"brandName": "奥迪AUDI Q7 4.2 FSI QUATTRO越野车",
+				"engineDesc": "4.2L",
+				"familyName": "奥迪Q7",
+				"newCarPrice": "1650000",
+				"purchasePriceTax": "1791000",
+				"importFlag": "2",
+				"purchasePrice": "1650000",
+				"seat": "5",
+				"modelName": "奥迪AUDI Q7 4.2 FSI QUATTRO越野车4.2L奥迪Q7手自一体",
+				"modelAllName": "奥迪AUDI Q7 4.2 FSI QUATTRO越野车 4.2L 2010款 豪华型 奥迪Q7 5座"
+			}, {
+				"brandCode": "ADAARI0004",
+				"brandName": "奥迪AUDI Q5 3.2FSI QUATTRO越野车",
+				"engineDesc": "3.2L",
+				"familyName": "奥迪Q5",
+				"newCarPrice": "628000",
+				"purchasePriceTax": "681700",
+				"importFlag": "2",
+				"purchasePrice": "628000",
+				"seat": "5",
+				"modelName": "奥迪AUDI Q5 3.2FSI QUATTRO越野车3.2L奥迪Q5双离合变速器",
+				"modelAllName": "奥迪AUDI Q5 3.2FSI QUATTRO越野车 3.2L 2010款 越野版 奥迪Q5 5座"
+			}, {
+				"brandCode": "ADAARI0003",
+				"brandName": "奥迪AUDI Q5 2.0TFSI QUATTRO越野车",
+				"engineDesc": "2.0T",
+				"familyName": "奥迪Q5",
+				"newCarPrice": "615000",
+				"purchasePriceTax": "667600",
+				"importFlag": "2",
+				"purchasePrice": "615000",
+				"seat": "5",
+				"modelName": "奥迪AUDI Q5 2.0TFSI QUATTRO越野车2.0T奥迪Q5双离合变速器",
+				"modelAllName": "奥迪AUDI Q5 2.0TFSI QUATTRO越野车 2.0T 2010款 越野版 奥迪Q5 5座"
+			}, {
+				"brandCode": "ADAARI0001",
+				"brandName": "奥迪AUDI Q5 3.2FSI QUATTRO越野车",
+				"engineDesc": "3.2L",
+				"familyName": "奥迪Q5",
+				"newCarPrice": "600000",
+				"purchasePriceTax": "651300",
+				"importFlag": "2",
+				"purchasePrice": "600000",
+				"seat": "5",
+				"modelName": "奥迪AUDI Q5 3.2FSI QUATTRO越野车3.2L奥迪Q5双离合变速器",
+				"modelAllName": "奥迪AUDI Q5 3.2FSI QUATTRO越野车 3.2L 2010款 运动版 奥迪Q5 5座"
+			}, {
+				"brandCode": "ADAARI0002",
+				"brandName": "奥迪AUDI Q5 2.0TFSI QUATTRO越野车",
+				"engineDesc": "2.0T",
+				"familyName": "奥迪Q5",
+				"newCarPrice": "557000",
+				"purchasePriceTax": "604600",
+				"importFlag": "2",
+				"purchasePrice": "557000",
+				"seat": "5",
+				"modelName": "奥迪AUDI Q5 2.0TFSI QUATTRO越野车2.0T奥迪Q5双离合变速器",
+				"modelAllName": "奥迪AUDI Q5 2.0TFSI QUATTRO越野车 2.0T 2010款 运动版 奥迪Q5 5座"
+			}
+		]
+	}
+}

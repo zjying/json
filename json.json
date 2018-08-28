@@ -1,0 +1,22 @@
+{
+	"state": "200",
+	"msg": null,
+	"total":3,
+	"rows":[
+	{
+		"policyNo":"123",
+		"policyType":"0507",
+		"sumAmount":"20000",
+		"money":"3000"
+	},{
+		"policyNo":"123",
+		"policyType":"0508",
+		"sumAmount":"20009",
+		"money":"2000"
+	},{
+		"policyNo":"123",
+		"policyType":"0508",
+		"sumAmount":"28377",
+		"money":"238373"
+	}]
+}
